@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AmanPandey8269
-- 👀 I’m interested in Cloud Native and Open Source
-- 🌱 I’m currently learning Cloud Computing and Software Programming.
+- 👋 Hi, I’m @AmanPandey
+- 👀 I’m interested in Cloud Native and game development.
+- 🌱 I’m currently working as a game developer on a AAA title.
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Connect with me on twitter @Aman_Pandey10
 
